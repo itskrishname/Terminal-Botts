@@ -49,7 +49,7 @@ except ImportError:
 
 BOT_TOKEN = os.getenv(
     "BOT_TOKEN",
-    "8701460956:AAFuXdXSr46z_2CeFexRlVZS1LQ3NUsmiyw")
+    "7904426866:AAEQVE_mcJcZMCJjD8hkBhEKqLQjou9LJBs")
 ADMIN_ID = int(os.getenv("ADMIN_ID", "7660990923"))
 
 # Global variable to store the currently running process (for /kill)
